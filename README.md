@@ -2,6 +2,9 @@
 
 This repo is meant to demonstrate the cubic spline interpolation method. Check out the example.py file, it has a function that is able to generate conditional cubic functions which interpolates data points which will resemble the original very closely!
 
+Here's an example for a sine function! (Note that the red dots are the sampled points)
+<img width="750" alt="Screen Shot 2022-04-06 at 10 13 31 PM" src="https://user-images.githubusercontent.com/76069770/162106740-605b05ab-c68d-4120-b509-89f7c55de95c.png">
+
 For more information on cubic splines, I recommend checking out this [wikipedia](https://en.wikipedia.org/wiki/Spline_(mathematics)) article. 
 
 # Parametric Interpolation
